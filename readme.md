@@ -55,7 +55,7 @@ const array3 = [
   [0, 6, 14, 2],
 ];
 ```
-### Function to solve
+### Function to solve the problem.
 ```javascript
 function getMaxBananas(array) {
   let layer = new Array(array[0].length).fill(0);
@@ -74,7 +74,7 @@ function getMaxBananas(array) {
 ### Call function
 You can use any square matrix;
 
-```
+```javascript
 getMaxBananas(array);
 ```
 
