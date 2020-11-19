@@ -28,6 +28,9 @@ Output: ​83
 ```
 
 ## Logic
+- "Layer" is a list of elements in which each one is the sum of itself and its next element, respecting the movements of:
+(right->, right up /, right down\).
+
 <p align="center">
   <img alt="Happy" src="logic.png" width="100%">
 </p>
