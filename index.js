@@ -31,7 +31,4 @@ function getMaxBananas(array) {
   }
   console.log(Math.max(...layer));
 }
-
-getMaxBananas(array);
-// getMaxBananas(array2);
-// getMaxBananas(array3);
+getMaxBananas(array2);
